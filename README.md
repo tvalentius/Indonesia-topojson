@@ -1,14 +1,15 @@
 # Indonesia-topojson
 
 
-topojson data of Indonesia with City-Regency(Kota-Kabupaten) level of accuracy 
+topojson data of Indonesia with City-Regency(Kota-Kabupaten) administrative divisions level of accuracy. 
 
 
 #TODO
 
-- Name properties cleaning
+- clean the properties/attribute of the data
 - Province level of accuracy version (smaller file size)
 
+#LICENSE
 
 The MIT License (MIT)
 
