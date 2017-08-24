@@ -3,15 +3,15 @@
 
 topojson data of Indonesia with City-Regency(Kota-Kabupaten) administrative divisions level of accuracy. 
 
-# Example
+## Example Usage
 
 http://bl.ocks.org/tvalentius/10ef8cbefbacaecada45161b1f3810ce
 
-# TODO
+## TODO
 
 - clean the properties/attribute of the data
 
-# LICENSE
+## LICENSE
 
 The MIT License (MIT)
 
