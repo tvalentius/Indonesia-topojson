@@ -5,7 +5,12 @@ topojson data of Indonesia with City-Regency(Kota-Kabupaten) administrative divi
 
 ## Example Usage
 
+### Provinces of Indonesia
 http://bl.ocks.org/tvalentius/10ef8cbefbacaecada45161b1f3810ce
+
+### Choropleth (HDI of Indonesia)
+http://bl.ocks.org/tvalentius/066b055d4d55de3eb303dc9f3d210d76
+
 
 ## TODO
 
