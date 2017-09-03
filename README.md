@@ -15,6 +15,7 @@ http://bl.ocks.org/tvalentius/066b055d4d55de3eb303dc9f3d210d76
 ## TODO
 
 - clean the properties/attribute of the data
+- Add more example
 
 ## LICENSE
 
