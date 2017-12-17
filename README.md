@@ -1,7 +1,7 @@
 # Indonesia-topojson
 
 
-topojson data of Indonesia with City-Regency(Kota-Kabupaten) administrative divisions level of accuracy. 
+topojson data of Indonesia with City-Regency(Kota-Kabupaten) administrative divisions levels of accuracy. 
 
 ## Example Usage
 
@@ -21,7 +21,7 @@ http://bl.ocks.org/tvalentius/066b055d4d55de3eb303dc9f3d210d76
 
 The MIT License (MIT)
 
-Copyright (c) 2017 Trimikha Valentius.
+Copyright (c) 20XX Trimikha Valentius.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
