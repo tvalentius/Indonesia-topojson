@@ -3,7 +3,7 @@
 
 topojson data of Indonesia with City-Regency(Kota-Kabupaten) administrative divisions levels of accuracy. 
 
-## Example Usage
+## Usage Example
 
 ### Provinces of Indonesia
 http://bl.ocks.org/tvalentius/10ef8cbefbacaecada45161b1f3810ce
